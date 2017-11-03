@@ -7,6 +7,6 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 
 ```
 > git clone https://github.com/pluwum/react-redux-video.git
-> cd ReduxSimpleStarter
+> cd react-redux-video
 > npm install
 > npm start
